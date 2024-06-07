@@ -1,0 +1,7 @@
+PCIE SSD(1 pc)=10
+PCIE SSD(2 pc)=20
+M.2(2 pc)=20
+M.2(1 pc)=10
+Hala=12
+NVMe SSD(2 pc)=20
+NVMe SSD(1 pc)=10

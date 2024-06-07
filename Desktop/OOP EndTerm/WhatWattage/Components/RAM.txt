@@ -1,0 +1,9 @@
+DDR3 RAM(4 stick)=16
+DDR3 RAM(3 stick)=12
+DDR4 RAM(1 stick)=4
+DDR4 RAM(3 stick)=12
+DDR4 RAM(4 stick)=16
+DDR4 RAM(2 stick)=8
+DDR3 RAM(1 stick)=4
+DDR3 RAM(2 stick)=8
+Hala=12
